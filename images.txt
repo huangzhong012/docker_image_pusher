@@ -1,1 +1,1 @@
-likeflyme
+homeassistant/amd64-addon-mosquitto
